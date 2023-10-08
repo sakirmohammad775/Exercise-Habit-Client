@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Nutrition advice",
+      "image": "https://i.ibb.co/Qj69gxz/nutrition.jpg",
+      "price": "$49.99/month",
+      "short_description": "Achieve your fitness goals with state-of-the-art equipment and expert trainers at FitLife Gym.",
+      "button": "Learn More"
+    },
+    {
+      "id": 2,
+      "name": "Weight loss challenges",
+      "image": "https://i.ibb.co/jTN8Lgs/weight-loss.jpg",
+      "price": "$79.99/month",
+      "short_description": "Transform your body and boost your energy at PowerFit Training Center. We're here to push your limits.",
+      "button": "Explore Programs"
+    },
+    {
+      "id": 3,
+      "name": "Improving Strength",
+      "image": "https://i.ibb.co/rydhDF4/improving-strength.webp",
+      "price": "$59.99/month",
+      "short_description": "Elevate your fitness journey at Elevate Fitness Hub. Reach new heights in your health and performance.",
+      "button": "Get Started"
+      
+    },
+    {
+      "id": 4,
+      "name": "Abs Exercise",
+      "image": "https://i.ibb.co/x26QTX6/Abs.jpg",
+      "price": "$69.99/month",
+      "short_description": "Get stronger and fitter at StrengthZone Gym. Our trainers are dedicated to your progress.",
+      "button": "Join Now"
+    },
+    {
+      "id": 5,
+      "name": "Yoga",
+      "image": "https://i.ibb.co/BG5FxB0/yoga2.jpg",
+      "price": "$54.99/month",
+      "short_description": "WellnessWave Fitness Center promotes overall wellness, offering classes in yoga, strength, and cardio.",
+      "button": "View Schedule"
+    },
+    {
+      "id": 6,
+      "name": "Personal training",
+      "image": "https://i.ibb.co/7yG88zn/personal-training.jpg",
+      "price": "$59.99/month",
+      "short_description": "TotalBody Fitness Studio offers a holistic approach to health and fitness, combining workouts and nutrition.",
+      "button": "Discover Classes"
+    }
+  ]
+  
