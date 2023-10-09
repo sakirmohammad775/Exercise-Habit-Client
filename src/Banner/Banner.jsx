@@ -3,7 +3,8 @@
 const Banner = () => {
     return (
         <div>
-            {/* <img src="src\assets\frontpicture.jpg" alt="" /> */}
+            <div className="hero min-h-screen" style={{backgroundImage: 'url(https://i.ibb.co/pQSw97S/frontpicture.jpg)'}}>
+                </div>
         </div>
     );
 };

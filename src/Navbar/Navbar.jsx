@@ -44,7 +44,7 @@ const Navbar = () => {
   </div>
 </div>
 <div>
-            <img src="src\assets\frontpicture.jpg" alt="" />
+            
         </div>
             
 </div>
