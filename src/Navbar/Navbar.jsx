@@ -43,6 +43,9 @@ const Navbar = () => {
     <button className="btn text-cyan-500 hover:text-white hover:bg-sky-700"> {registerLink}</button>
   </div>
 </div>
+<div>
+            <img src="src\assets\frontpicture.jpg" alt="" />
+        </div>
             
 </div>
     );
