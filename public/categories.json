@@ -47,6 +47,14 @@
       "price": "$59.99/month",
       "short_description": "TotalBody Fitness Studio offers a holistic approach to health and fitness, combining workouts and nutrition.",
       "button": "Discover Classes"
+    },
+    {
+      "id": 7,
+      "name": "Meditation & Explore",
+      "image": "https://i.ibb.co/Qj69gxz/nutrition.jpg",
+      "price": "$49.99/month",
+      "short_description": "Achieve your fitness goals with state-of-the-art equipment and expert trainers at FitLife Gym.",
+      "button": "Learn More"
     }
   ]
   
