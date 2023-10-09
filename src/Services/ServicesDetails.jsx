@@ -18,8 +18,8 @@ const ServicesDetails = () => {
                 <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
             <button className="btn text-cyan-500 hover:text-white hover:bg-sky-700 px-8">Explore with us</button>
-    </div>
-  </div>
+            </div>
+                </div>
             </div>
            
             <div className="grid lg:grid-cols-2">

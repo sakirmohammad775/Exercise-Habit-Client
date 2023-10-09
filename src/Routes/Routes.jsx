@@ -2,9 +2,10 @@
 import { createBrowserRouter } from "react-router-dom"
 import Roots from "../Layout/Roots/Roots"
 import Home from "../Allpages/Home/Home"
-import Register from "../Register/Register"
-import Login from "../Login/Login"
+
 import ServicesDetails from "../Services/ServicesDetails"
+import Login from "../Login/Login"
+import Register from "../Register/Register"
 
 
 
@@ -25,12 +26,12 @@ const routes =createBrowserRouter([
             {
                 path:'/login',
                 element:<Login></Login>
-              },
-              {
-                path:'/register',
+            },
+            {
+                path:"/register",
                 element:<Register></Register>
-              },
-              
+            }
+           
         ]
     }
 ])

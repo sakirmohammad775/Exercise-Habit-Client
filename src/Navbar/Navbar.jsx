@@ -9,14 +9,14 @@ const Navbar = () => {
     <li><NavLink to='/about us'>About Us</NavLink></li>
     <li><NavLink to='/explore'>Explore</NavLink></li>
     </>
-    /*button(login page) dynamic form*/
-    const loginLink=<>
-      <NavLink to='/login'>Login</NavLink>
-    </>
+    // *button(login page) dynamic form
+     const loginLink=<>
+        <NavLink to='/login'>Login</NavLink>
+      </>
      /*button(register page) dynamic form*/
      const registerLink=<>
      <NavLink to='/register'>Register</NavLink>
-   </>
+    </>
 
 
     return (
